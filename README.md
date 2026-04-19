@@ -354,5 +354,5 @@ Invalid phone! Only numbers allowed.
 <img width="1920" height="1200" alt="Снимок экрана (32)" src="https://github.com/user-attachments/assets/a33d12c0-1f5d-4954-b5c1-7f7b3f52d68e" />
 <img width="1920" height="1200" alt="Снимок экрана (33)" src="https://github.com/user-attachments/assets/95e00484-bcfc-4d0b-bd91-643c14cfa6ae" />
 
-
+https://docs.google.com/presentation/d/1hk8_CK8w_IxL-S5fIzXEzKB2gIo6Nq-r/edit?usp=sharing&ouid=114415693199742281473&rtpof=true&sd=true
 
