@@ -1,1 +1,83 @@
-[{"id":1,"name":"Emily Johnson","phone":"01 202 555 0143","email":"emily.johnson@gmail.com","education":"Master of Science in Computer Science, Westbridge University","experience":"5 years total — 2 years at BrightWeb Solutions as Junior Web Developer, 3 years at NovaTech Labs as Frontend Developer","skills":"HTML, CSS, JavaScript, React, TypeScript"},{"id":2,"name":"Michael Morrison","phone":"01 303 555 0198","email":"michael.morrison@yahoo.com","education":"Master of Science in Data Science, Greenfield Institute of Technology","experience":"3 years at DataCore Analytics as Data Analyst","skills":"SQL, Python, Excel, Power BI, Data Visualization"},{"id":3,"name":"Joshua Kendeski","phone":"01 415 555 0127","email":"joshua.k@gmail.com","education":"Bachelor of Business Administration in Marketing, Lakeside University","experience":"1 year at Marketify Agency as Marketing Intern","skills":"Social Media Marketing, Content Creation, SEO"},{"id":4,"name":"Deccan Williams","phone":"01 617 555 0165","email":"deccan.williams@gmail.com","education":"Master of Science in Software Engineering, North Valley University","experience":"6 years total — 3 years at CloudBridge Systems as Software Engineer, 3 years at ApexSoft Technologies as Backend Developer","skills":"Java, Spring Boot, MySQL, Git, REST APIs"},{"id":19,"name":"Minny","phone":"3456","email":"minny@gmail.com","education":"alatoo uni","experience":"google","skills":"java"},{"id":22,"name":"Sara Lane","phone":"23454","email":"sara.lane@gmail.com","education":"alatoo ui","experience":"google","skills":"css, java"},{"id":30,"name":"paule","phone":"234","email":"paule@gmail.com","education":"alatoo uni","experience":"no","skills":"java"}]
+[
+  {
+    "id": 1,
+    "name": "Emily Johnson",
+    "phone": "01 202 555 0143",
+    "email": "emily.johnson@gmail.com",
+    "education": "Master of Science in Computer Science, Westbridge University",
+    "experience": "5 years total — 2 years at BrightWeb Solutions as Junior Web Developer, 3 years at NovaTech Labs as Frontend Developer",
+    "skills": "HTML, CSS, JavaScript, React, TypeScript"
+  },
+  {
+    "id": 2,
+    "name": "Michael Morrison",
+    "phone": "01 303 555 0198",
+    "email": "michael.morrison@yahoo.com",
+    "education": "Master of Science in Data Science, Greenfield Institute of Technology",
+    "experience": "3 years at DataCore Analytics as Data Analyst",
+    "skills": "SQL, Python, Excel, Power BI, Data Visualization"
+  },
+  {
+    "id": 3,
+    "name": "Joshua Kendeski",
+    "phone": "01 415 555 0127",
+    "email": "joshua.k@gmail.com",
+    "education": "Bachelor of Business Administration in Marketing, Lakeside University",
+    "experience": "1 year at Marketify Agency as Marketing Intern",
+    "skills": "Social Media Marketing, Content Creation, SEO"
+  },
+  {
+    "id": 4,
+    "name": "Deccan Williams",
+    "phone": "01 617 555 0165",
+    "email": "deccan.williams@gmail.com",
+    "education": "Master of Science in Software Engineering, North Valley University",
+    "experience": "6 years total — 3 years at CloudBridge Systems as Software Engineer, 3 years at ApexSoft Technologies as Backend Developer",
+    "skills": "Java, Spring Boot, MySQL, Git, REST APIs"
+  },
+  {
+    "id": 19,
+    "name": "Minny",
+    "phone": "3456",
+    "email": "minny@gmail.com",
+    "education": "alatoo uni",
+    "experience": "google",
+    "skills": "java"
+  },
+  {
+    "id": 22,
+    "name": "Sara Lane",
+    "phone": "23454",
+    "email": "sara.lane@gmail.com",
+    "education": "alatoo ui",
+    "experience": "google",
+    "skills": "css, java"
+  },
+  {
+    "id": 30,
+    "name": "paule",
+    "phone": "234",
+    "email": "paule@gmail.com",
+    "education": "alatoo uni",
+    "experience": "no",
+    "skills": "java"
+  },
+  {
+    "id": 31,
+    "name": "dsfg",
+    "phone": "234",
+    "email": "dfdg@gmail.com",
+    "education": "",
+    "experience": "",
+    "skills": ""
+  },
+  {
+    "id": 33,
+    "name": "Timothy",
+    "phone": "23454321",
+    "email": "tim@gmail.com",
+    "education": "",
+    "experience": "",
+    "skills": ""
+  }
+]
