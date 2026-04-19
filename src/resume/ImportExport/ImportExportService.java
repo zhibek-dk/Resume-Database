@@ -5,7 +5,7 @@ import com.google.gson.Gson;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
 import java.io.FileReader;
-
+import com.google.gson.GsonBuilder;
 public class ImportExportService {
     private static final String url="jdbc:sqlite:C:\\Users\\Zhibek\\OneDrive\\Документы\\resume project database";
 
@@ -56,7 +56,7 @@ public class ImportExportService {
                 obj.addProperty("skills",rs.getString("skills"));
                 arr.add(obj);
             }
-            writer.write(new Gson().toJson(arr));
+            writer.write(new GsonBuilder().setPrettyPrinting().create().toJson(arr));
             System.out.println("Exported to Applicants.json");
         }catch(Exception e){
             System.out.println(e.getMessage());
