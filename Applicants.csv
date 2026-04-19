@@ -1,0 +1,8 @@
+id,name,phone,email,education,experience,skills
+"1","Emily Johnson","01 202 555 0143","emily.johnson@gmail.com","Master of Science in Computer Science, Westbridge University","5 years total — 2 years at BrightWeb Solutions as Junior Web Developer, 3 years at NovaTech Labs as Frontend Developer","HTML, CSS, JavaScript, React, TypeScript"
+"2","Michael Morrison","01 303 555 0198","michael.morrison@yahoo.com","Master of Science in Data Science, Greenfield Institute of Technology","3 years at DataCore Analytics as Data Analyst","SQL, Python, Excel, Power BI, Data Visualization"
+"3","Joshua Kendeski","01 415 555 0127","joshua.k@gmail.com","Bachelor of Business Administration in Marketing, Lakeside University","1 year at Marketify Agency as Marketing Intern","Social Media Marketing, Content Creation, SEO"
+"4","Deccan Williams","01 617 555 0165","deccan.williams@gmail.com","Master of Science in Software Engineering, North Valley University","6 years total — 3 years at CloudBridge Systems as Software Engineer, 3 years at ApexSoft Technologies as Backend Developer","Java, Spring Boot, MySQL, Git, REST APIs"
+"18","paule","234","paule@gmail.com","alatoo uni","no","java"
+"19","Minny","3456","minny@gmail.com","alatoo uni","google","java"
+"22","Sara Lane","23454","sara.lane@gmail.com","alatoo ui","google","css, java"
