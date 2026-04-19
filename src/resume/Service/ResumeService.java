@@ -391,7 +391,7 @@ class ResumeService {
            System.out.println("Invalid choice!");
            return;
        }
-       int choice=Integer.parseInt(scanner.nextLine());
+       int choice=Integer.parseInt(choiceInput);
        var sql="";
        switch (choice){
            case 1:
