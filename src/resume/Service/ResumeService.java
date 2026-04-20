@@ -94,6 +94,9 @@ class ResumeService {
             }
             String password = null;
             String chosenRole=role;
+            if (role.equalsIgnoreCase("manager")) {
+                chosenRole = "applicant";
+            }
             if (role.equalsIgnoreCase("admin")) {
                 System.out.print("Enter role (admin/manager/applicant): ");
                 chosenRole = scanner.nextLine();
